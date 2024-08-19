@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/memory-trainer/static/css/main.b316a632.css",
-    "main.js": "/memory-trainer/static/js/main.91098f1f.js",
+    "main.js": "/memory-trainer/static/js/main.c14cb92d.js",
     "static/js/453.3940aee3.chunk.js": "/memory-trainer/static/js/453.3940aee3.chunk.js",
     "index.html": "/memory-trainer/index.html",
     "main.b316a632.css.map": "/memory-trainer/static/css/main.b316a632.css.map",
-    "main.91098f1f.js.map": "/memory-trainer/static/js/main.91098f1f.js.map",
+    "main.c14cb92d.js.map": "/memory-trainer/static/js/main.c14cb92d.js.map",
     "453.3940aee3.chunk.js.map": "/memory-trainer/static/js/453.3940aee3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b316a632.css",
-    "static/js/main.91098f1f.js"
+    "static/js/main.c14cb92d.js"
   ]
 }
